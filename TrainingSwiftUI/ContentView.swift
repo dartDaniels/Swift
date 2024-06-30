@@ -28,7 +28,6 @@ struct ContentView: View {
             }
             .frame(height: 56)
             VStack {
-                Text("hello world")
                 HStack {
                     Text("235 cal left")
                         .lineSpacing(10.0)
